@@ -539,7 +539,7 @@ GEM
       activesupport (>= 7.0.0)
       rack
       railties (>= 7.0.0)
-    psych (5.1.1.1)
+    psych (5.1.2)
       stringio
     public_suffix (5.0.4)
     puma (6.4.2)
@@ -613,7 +613,7 @@ GEM
       link_header (~> 0.0, >= 0.0.8)
     rdf-normalize (0.6.1)
       rdf (~> 3.2)
-    rdoc (6.6.1)
+    rdoc (6.6.3.1)
       psych (>= 4.0.0)
     redcarpet (3.6.0)
     redis (4.8.1)
